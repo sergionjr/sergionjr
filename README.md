@@ -7,6 +7,10 @@ My name is Sergio Nogueira, I am a recent graduate from the University of Colora
 - Via my [Personal Website](https://sergionjr.io)
 - [E-mail](mailto:seno7509@colorado.edu)
 
+### Personal
+- 🌱 I’m currently learning Frontend Development
+- 💬 Let's talk about: Dostoevsky, Tolstoy, Solzhenitsyn & Frankl
+- ⚡ Fun fact: I have visited 6/7 continents!
 <!--
 **sergionjr/sergionjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
