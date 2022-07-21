@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! 👋
+My name is Sergio Nogueira, I am a recent graduate from the University of Colorado Boulder. I am a full stack developer who specializes in C# & Python 3. (Though I do have experience with JS, HTML and CSS). I am currently looking for work. Whenever I am not programming, you will find me exercising, or learning piano.
+
+
+
+### 📫 How to reach me
+- Via my [Personal Website](https://sergionjr.io)
+- [E-mail](mailto:seno7509@colorado.edu)
 
 <!--
 **sergionjr/sergionjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
