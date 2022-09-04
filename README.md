@@ -12,7 +12,9 @@ My name is Sergio Nogueira, I am a recent graduate from the University of Colora
 - 💬 Let's talk about: Dostoevsky, Tolstoy, Solzhenitsyn & Frankl
 - ⚡ Fun fact: I have visited 6/7 continents!
 
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergionjr&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergionjr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergionjr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
