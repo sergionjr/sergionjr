@@ -11,6 +11,11 @@ My name is Sergio Nogueira, I am a recent graduate from the University of Colora
 - 🌱 I’m currently learning: Front End Development
 - 💬 Let's talk about: Dostoevsky, Tolstoy, Solzhenitsyn & Frankl
 - ⚡ Fun fact: I have visited 6/7 continents!
+
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergionjr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **sergionjr/sergionjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
