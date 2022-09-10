@@ -8,7 +8,7 @@ My name is Sergio Nogueira, I am a recent graduate from the University of Colora
 - [E-mail](mailto:seno7509@colorado.edu)
 
 ### Personal
-- 🌱 I’m currently learning: Front End Development
+- 🌱 I’m currently learning: Front End Development w/ ReactJS
 - 💬 Let's talk about: Dostoevsky, Tolstoy, Solzhenitsyn & Frankl
 - ⚡ Fun fact: I have visited 6/7 continents!
 
