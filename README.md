@@ -1,5 +1,5 @@
 ### Hey! 👋
-My name is Sergio Nogueira, I am a recent graduate from the University of Colorado Boulder. I am a full stack developer who specializes in C# & Python 3. (Though I do have experience with Java, JS, HTML and CSS). I am currently a Full Stack Developer in the automotive industry. Whenever I am not programming, you will find me at the gym or cooking.
+My name is Sergio Nogueira, I am a recent graduate from the University of Colorado Boulder. I am a full stack developer who specializes in C# & Python 3. (Though I do have experience with Java, JS, HTML and CSS). I currently work as a Full Stack Developer
 
 
 
