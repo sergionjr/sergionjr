@@ -1,5 +1,5 @@
 ### Hey! 👋
-My name is Sergio, I am a Full Stack Developer with most of my experience in C# & Java (Although I do have experience with Node.js & Python) . I currently work as a Full Stack Developer
+My name is Sergio, I am a Full Stack Developer with most of my experience in C# & Java (Although I do have experience with Node.js & Python)
 
 
 ### 📫 How to reach me
