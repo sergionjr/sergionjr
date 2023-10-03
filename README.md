@@ -1,6 +1,5 @@
 ### Hey! 👋
-My name is Sergio, I am a recent graduate from the University of Colorado Boulder. I am a full stack developer who specializes in C# & Python 3. (Though I do have experience with Java, JS, HTML and CSS). I currently work as a Full Stack Developer
-
+My name is Sergio, I am a Full Stack Developer with most of my experience in C# & Java (Although I do have experience with Node.js & Python) . I currently work as a Full Stack Developer
 
 
 ### 📫 How to reach me
@@ -10,7 +9,7 @@ My name is Sergio, I am a recent graduate from the University of Colorado Boulde
 ### Personal
 - 🌱 I’m currently learning: Front End Development w/ Angular
 - 💬 Let's talk about: Dostoevsky, Tolstoy, Solzhenitsyn & Frankl
-- ⚡ Fun fact: I have visited 6/7 continents!
+- ⚡ Fun fact: I have visited 5/7 continents!
 
 
 [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergionjr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
